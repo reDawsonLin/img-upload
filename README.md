@@ -1,4 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Image Uploader to Imgur with cropped function
+- Nuxt3
+- Tailwind
+- Imgur api
+- vue-cropper.js
+
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
